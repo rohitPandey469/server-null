@@ -1,4 +1,4 @@
-const FRONTEND_URL = "https://stack-overflow-iota.vercel.app";
+const FRONTEND_URL = "https://stackoverflow-clone-null.netlify.app";
 import "dotenv/config"
 import Stripe from "stripe";
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);

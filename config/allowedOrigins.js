@@ -1,2 +1,2 @@
-const allowedOrigins = ["https://stack-overflow-iota.vercel.app"];
+const allowedOrigins = ["https://stackoverflow-clone-null.netlify.app"];
 export default allowedOrigins;
